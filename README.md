@@ -15,3 +15,12 @@ curso de Java.
 
 # Curso 
 > Link de acesso para o curso: [COD3R CURSOS ONLINE](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) 
+# ▶ O QUE APRENDI NO CURSO ◀
+✔ Conhecer a linguagem Java do zero ao avançado.
+✔ Fundamentos de programação sólidos
+✔ Orientação a Objetos e os seus princípios
+✔ Banco de Dados e Frameworks de persistência como JPA
+✔ Programação Funcional com Java
+✔ Desenvolver WebService com Spring Boot e Banco de Dados
+✔ Java Desktop: Swing e JavaFX
+✔Desenvolver projetos reais
