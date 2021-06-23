@@ -5,7 +5,7 @@ Repositório para armazenar tudo sobre o Curso de Java feito na Udemy.
 ### Ferramentas utilizadas
 - ![Badge](https://img.shields.io/static/v1?label=Software&message=Eclipse&color=blue&style=flat)
 - ![Badge](https://img.shields.io/static/v1?label=Linguagem&message=Java&color=orange&style=flat)
-- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.2&color=red&style=flat)
+- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.3&color=red&style=flat)
 
 ### Diretórios
 - `Exemplo Organização Arquivos:` Esse diretório aramzena um estrutura de diretórios que serve como estudo para 
@@ -19,6 +19,11 @@ curso de Java.
   - `Controle`: Todos os programas desenvolvidos e comentados em aula para o aprendizado da parte de estruturas de controle da linguagem de programação Java estão apresentados dentro desse diretório.
   - `Desafios`: Diretório utilizado para armazenar todos os desafios propostos pelo professor nas aulas de Java.
   - `Ecercicios`: Todos os exercícios do módulo de Estruturas de Controle de Dados estão armazenados e comentados nesse diretório.
+- `Classes e Metodos`: Diretório utilizado para armazenar todos os códigos e estudos feitos no Cápitulo de Classes e Metódos do
+curso de Java.
+  - `Classe`: Todos os programas desenvolvidos e comentados em aula para o aprendizado da parte de classes e metodos da linguagem de programação Java estão apresentados dentro desse diretório.
+  - `Desafios`: Diretório utilizado para armazenar todos os desafios propostos pelo professor nas aulas de Java.
+    - `Modulo`: Diretório utilizado para armazenar o desafio do final do módulo, desafio mais complexo utilizando todas os conceitos aprendidos nas aulas.
 ------------------------
 
 # Curso e Projetos
