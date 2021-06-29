@@ -36,7 +36,7 @@ curso de Java.
   - `Composição`: Códigos para o inicio e introdução ao estudo de Orientação a Objetos.
   - `Desafios`: Usado para armazenar um desafio proposto no módulo pelo professor.
     - `Composicao`: Desafios sobre o assunto composição.
-    - `Hernaca`: Desafios relacionados ao assunto de Heranca.
+    - `Heranca`: Desafios relacionados ao assunto de Heranca.
     - `Interfaces`: Desafios relacionados ao assunto de Interfaces.
 - `Emcapsulamento`: Código relacionados e comentados sobre o assunto emcapsulamento.
 - `Henraca`: Códigos relacionados e comentados sobre o assunto de Herança de Classes em Java.
