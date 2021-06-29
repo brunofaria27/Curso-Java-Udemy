@@ -5,7 +5,7 @@ Repositório para armazenar tudo sobre o Curso de Java feito na Udemy.
 ### Ferramentas utilizadas
 - ![Badge](https://img.shields.io/static/v1?label=Software&message=Eclipse&color=blue&style=flat)
 - ![Badge](https://img.shields.io/static/v1?label=Linguagem&message=Java&color=orange&style=flat)
-- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.4&color=red&style=flat)
+- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.5&color=red&style=flat)
 
 ### Diretórios
 - `Exemplo Organização Arquivos:` Esse diretório aramzena um estrutura de diretórios que serve como estudo para 
@@ -30,6 +30,17 @@ curso de Java.
   - `Collections`: Diretório utilizado para armazenar códigos comentados e organizados sobre Collections em Java.
   - `Desafios`: Usado para armazenar um desafio proposto no módulo pelo professor.
   - `Equals`: Armazena o código para exemplificar o uso do Equals e HashCode em prática.
+- `Orientação a Objetos:` Diretório utilizado para armazenar todos os códigos e estudos feitos no Cápitulo de Orientação a Objetos do
+curso de Java.
+  - `Abstrato`: Códigos para estudo de abstração em Java.
+  - `Composição`: Códigos para o inicio e introdução ao estudo de Orientação a Objetos.
+  - `Desafios`: Usado para armazenar um desafio proposto no módulo pelo professor.
+    - `Composicao`: Desafios sobre o assunto composição.
+    - `Hernaca`: Desafios relacionados ao assunto de Heranca.
+    - `Interfaces`: Desafios relacionados ao assunto de Interfaces.
+- `Emcapsulamento`: Código relacionados e comentados sobre o assunto emcapsulamento.
+- `Henraca`: Códigos relacionados e comentados sobre o assunto de Herança de Classes em Java.
+- `Polimorfismo`: Códigos sobre o assunto Polimorfismo na Linguagem de porgramação Java.
 ------------------------
 
 # Curso e Projetos
@@ -38,10 +49,10 @@ curso de Java.
 > Link de acesso para o curso: [COD3R CURSOS ONLINE](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) 
 ### Task List:
 - [X] Conhecer a linguagem Java do zero ao avançado.                
-- [ ] Programação Funcional com Java.
+- [X] Programação Funcional com Java.
 - [X] Fundamentos de programação sólidos.                           
 - [ ] Desenvolver WebService com Spring Boot e Banco de Dados.
-- [ ] Orientação a Objetos e os seus princípios.                     
+- [X] Orientação a Objetos e os seus princípios.                     
 - [ ] Java Desktop: Swing e JavaFX.
 - [ ] Banco de Dados e Frameworks de persistência como JPA.         
 - [ ] Desenvolver projetos reais.
