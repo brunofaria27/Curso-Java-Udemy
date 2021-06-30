@@ -5,7 +5,7 @@ Repositório para armazenar tudo sobre o Curso de Java feito na Udemy.
 ### Ferramentas utilizadas
 - ![Badge](https://img.shields.io/static/v1?label=Software&message=Eclipse&color=blue&style=flat)
 - ![Badge](https://img.shields.io/static/v1?label=Linguagem&message=Java&color=orange&style=flat)
-- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.5&color=red&style=flat)
+- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.6&color=red&style=flat)
 
 ### Diretórios
 - `Exemplo Organização Arquivos:` Esse diretório aramzena um estrutura de diretórios que serve como estudo para 
@@ -38,9 +38,14 @@ curso de Java.
     - `Composicao`: Desafios sobre o assunto composição.
     - `Hernaca`: Desafios relacionados ao assunto de Heranca.
     - `Interfaces`: Desafios relacionados ao assunto de Interfaces.
-- `Emcapsulamento`: Código relacionados e comentados sobre o assunto emcapsulamento.
-- `Henraca`: Códigos relacionados e comentados sobre o assunto de Herança de Classes em Java.
-- `Polimorfismo`: Códigos sobre o assunto Polimorfismo na Linguagem de porgramação Java.
+  - `Emcapsulamento`: Código relacionados e comentados sobre o assunto emcapsulamento.
+  - `Henraca`: Códigos relacionados e comentados sobre o assunto de Herança de Classes em Java.
+  - `Polimorfismo`: Códigos sobre o assunto Polimorfismo na Linguagem de porgramação Java.
+- `Lambdas`: Diretório utilizado para armazenar todos os códigos e estudos feitos no Cápitulo de Lambdas do
+curso de Java.
+  - `Desafios`: Desafios propostos pelo professor, ralacionado com o módulo de Lambdas
+  - `Interfaces Funcionais Java`: Armazenamento de códigos de interfaces funcionais que o prório Java já tem, comentado e estudado.
+  - `Lambda`: Estudo sobre Funções Lambdas em Java.
 ------------------------
 
 # Curso e Projetos
