@@ -5,7 +5,7 @@ Repositório para armazenar tudo sobre o Curso de Java feito na Udemy.
 ### Ferramentas utilizadas
 - ![Badge](https://img.shields.io/static/v1?label=Software&message=Eclipse&color=blue&style=flat)
 - ![Badge](https://img.shields.io/static/v1?label=Linguagem&message=Java&color=orange&style=flat)
-- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.7&color=red&style=flat)
+- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.8&color=red&style=flat)
 
 ### Diretórios
 - `Exemplo Organização Arquivos:` Esse diretório aramzena um estrutura de diretórios que serve como estudo para 
@@ -52,6 +52,7 @@ curso de Java.
   - `Excecao`: Armazenamento e estudo dos códigos de Tratamento de Erros.
     - `personalizadaA`: Trata de tratamento de erros não checados.
     - `personalizadaB`: Trata de tratamentos de erros checados.
+- `Projeto Campo Minado`: Diretório que está armazenando os códigos e testes do Projeto(Desenvolver o jogo campo minado em um console). O projeto trata todos os assuntos dos diretórios escritos acima. Para conferir basta acessar o diretório Projeto Campo Minado.
 ------------------------
 
 # Curso e Projetos
