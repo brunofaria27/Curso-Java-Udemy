@@ -5,7 +5,7 @@ Repositório para armazenar tudo sobre o Curso de Java feito na Udemy.
 ### Ferramentas utilizadas
 - ![Badge](https://img.shields.io/static/v1?label=Software&message=Eclipse&color=blue&style=flat)
 - ![Badge](https://img.shields.io/static/v1?label=Linguagem&message=Java&color=orange&style=flat)
-- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.8&color=red&style=flat)
+- ![Badge](https://img.shields.io/static/v1?label=Versão&message=1.9&color=red&style=flat)
 
 ### Diretórios
 - `Exemplo Organização Arquivos:` Esse diretório aramzena um estrutura de diretórios que serve como estudo para 
@@ -53,6 +53,10 @@ curso de Java.
     - `personalizadaA`: Trata de tratamento de erros não checados.
     - `personalizadaB`: Trata de tratamentos de erros checados.
 - `Projeto Campo Minado`: Diretório que está armazenando os códigos e testes do Projeto(Desenvolver o jogo campo minado em um console). O projeto trata todos os assuntos dos diretórios escritos acima. Para conferir basta acessar o diretório Projeto Campo Minado.
+- `Generics`: Diretório utilizado para armazenar todos os códigos e estudos feitos no Cápitulo de Generics do
+curso de Java.
+  - `Generics`: Todos os conceitos de Generics testados e comentados.
+  - `EstruturaChaveValor`: Conceito de Generics com Chave e valor, com exemplo prático comentado.
 ------------------------
 
 # Curso e Projetos
