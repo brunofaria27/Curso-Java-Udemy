@@ -5,7 +5,7 @@ Repositório para armazenar tudo sobre o Curso de Java feito na Udemy.
 ### Ferramentas utilizadas
 - ![Badge](https://img.shields.io/static/v1?label=Software&message=Eclipse&color=blue&style=flat)
 - ![Badge](https://img.shields.io/static/v1?label=Linguagem&message=Java&color=orange&style=flat)
-- ![Badge](https://img.shields.io/static/v1?label=Versão&message=2.0&color=red&style=flat)
+- ![Badge](https://img.shields.io/static/v1?label=Versão&message=2.1&color=red&style=flat)
 
 ### Diretórios
 - `Exemplo Organização Arquivos:` Esse diretório aramzena um estrutura de diretórios que serve como estudo para 
@@ -59,6 +59,7 @@ curso de Java.
   - `EstruturaChaveValor`: Conceito de Generics com Chave e valor, com exemplo prático comentado.
 - `Java Desktop com Swing`:  Diretório utilizado para armazenar todos os códigos e estudos feitos no Cápitulo de Swing do
 curso de Java. Com o projeto Campo minado com Interface gráfica.
+  - `Appcalculadora`: Guarda todo código do projeto da Calculadora MAC em Java.
   - `Campominadointerface`: Guarda todo o código desenvolvido em Java para a interface do jogo Campo Minado.
   - `Padroes`: Guarda estudos sobre Observer e Swing.
     - `Observer`: estudos sobre observer em Java e aplicações.
