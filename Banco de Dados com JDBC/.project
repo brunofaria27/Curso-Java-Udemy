@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Generics</name>
+	<name>Banco de Dados com JDBC</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1626114468995</id>
+			<id>1626114468965</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
