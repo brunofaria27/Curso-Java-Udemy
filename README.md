@@ -5,7 +5,7 @@ Repositório para armazenar tudo sobre o Curso de Java feito na Udemy.
 ### Ferramentas utilizadas
 - ![Badge](https://img.shields.io/static/v1?label=Software&message=Eclipse&color=blue&style=flat)
 - ![Badge](https://img.shields.io/static/v1?label=Linguagem&message=Java&color=orange&style=flat)
-- ![Badge](https://img.shields.io/static/v1?label=Versão&message=3.2&color=red&style=flat)
+- ![Badge](https://img.shields.io/static/v1?label=Versão&message=3.3&color=red&style=flat)
 
 ### Diretórios
 - `Exemplo Organização Arquivos:` Esse diretório aramzena um estrutura de diretórios que serve como estudo para 
@@ -75,6 +75,7 @@ curso de Java. Com o projeto Campo minado com Interface gráfica.
   - `Infra`: Infraestrutura com DAO.
   - `modelo`: Onde fica  a maior parte da Orientação a Objeto, testes e atributos de classes (nomes simples de entendimento nas pastas).
   - `teste`: Teste dos modelos (nomes simples de entendimento nas pastas).
+- `Modularidade em Java`: Diretório utilizado para armazenar todos os códigos de estudo para o assunto de Modularidade em Java.
 ------------------------
 
 # Curso e Projetos
