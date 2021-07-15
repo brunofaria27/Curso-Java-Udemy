@@ -89,5 +89,5 @@ curso de Java. Com o projeto Campo minado com Interface gráfica.
 - [ ] Desenvolver WebService com Spring Boot e Banco de Dados.
 - [X] Orientação a Objetos e os seus princípios.                     
 - [ ] Java Desktop: Swing e JavaFX.
-- [ ] Banco de Dados e Frameworks de persistência como JPA.         
+- [X] Banco de Dados e Frameworks de persistência como JPA.         
 - [ ] Desenvolver projetos reais.
