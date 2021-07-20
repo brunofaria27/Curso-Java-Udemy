@@ -1,0 +1,31 @@
+.conteudo {
+	-fx-background-color: black;
+	-fx-font-family: Roboto;
+}
+
+.numero {
+	-fx-text-fill: white;
+	-fx-font-size: 28px;
+}
+
+.titulo {
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 36px;
+}
+
+.botao {
+	-fx-background-color: #fff;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 24px;
+	-fx-min-width: 60px;
+	-fx-min-heigth: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde {
+	-fx-text-fill: #6ad95e;
+}
+
+.vermelha {
+	-fx-text-fill: #f34343;
+}
