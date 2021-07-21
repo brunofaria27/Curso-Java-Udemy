@@ -82,6 +82,7 @@ curso de Java. Com o projeto Campo minado com Interface gráfica.
   - `FXML`: Aplicativo de Login, teste para ver o funcionamento do FXML, juntamente com o Java FX, implementando notificações em Controls FX.
   - `Layout`: Todos os layouts que podem ser utilizados no Java FX, de forma boa.
   - `Libs`: Bibliotecas utilizadas para fazer a integração do Controls FX com o Java.
+- `Spring Boot`: Tudo sobre o Spring Boot e o desenvolvimento Web, Back End utilizando Java.
 ------------------------
 
 # Curso e Projetos
@@ -89,11 +90,11 @@ curso de Java. Com o projeto Campo minado com Interface gráfica.
 
 > Link de acesso para o curso: [COD3R CURSOS ONLINE](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) 
 ### Task List:
-- [X] Conhecer a linguagem Java do zero ao avançado.                
+- [X] Conhecer a linguagem Java do zero ao avançado.
 - [X] Programação Funcional com Java.
-- [X] Fundamentos de programação sólidos.                           
-- [ ] Desenvolver WebService com Spring Boot e Banco de Dados.
-- [X] Orientação a Objetos e os seus princípios.                     
-- [ ] Java Desktop: Swing e JavaFX.
-- [X] Banco de Dados e Frameworks de persistência como JPA.         
-- [ ] Desenvolver projetos reais.
+- [X] Fundamentos de programação sólidos.
+- [X] Desenvolver WebService com Spring Boot e Banco de Dados.
+- [X] Orientação a Objetos e os seus princípios.
+- [X] Java Desktop: Swing e JavaFX.
+- [X] Banco de Dados e Frameworks de persistência como JPA.
+- [X] Desenvolver projetos reais.
