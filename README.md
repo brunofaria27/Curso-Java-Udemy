@@ -83,6 +83,7 @@ curso de Java. Com o projeto Campo minado com Interface gráfica.
   - `Layout`: Todos os layouts que podem ser utilizados no Java FX, de forma boa.
   - `Libs`: Bibliotecas utilizadas para fazer a integração do Controls FX com o Java.
 - `Spring Boot`: Tudo sobre o Spring Boot e o desenvolvimento Web, Back End utilizando Java.
+- `Banco de dados não relacional`: Comandos e entendimento sobre o Banco de dados não relacional, MongoDB.
 ------------------------
 
 # Curso e Projetos

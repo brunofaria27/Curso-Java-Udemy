@@ -1,0 +1,33 @@
+show dbs            -> Mostra banco de dados disponiveis
+use wm              -> Criar o banco de dados wm, mas sem nada dentro
+db.createCollection('estados')      -> Criar uma collection e um banco que nem foi criado
+show collections        -> Mostrar todas collections
+db.estados.drop()       -> Dropar a collection estados
+db.Estados.insert(nome: "Acre", sigla: "AC", regiao = "Norte")  -> Inserir
+db.Estados.find()   -> Mostrar o que tem dentro da collection Estados
+db.Estados.find().pretty()  -> Mostrar o que tem dentro, porém formatado
+
+db.Estados.insert({
+    nome: "Rio de Janeiro",
+    sigla: "RJ",
+    regiao: "Sudeste",
+    cidade: [{
+        _id: ObjectId(),
+        nome: "Niterói",
+        area: "133.9",
+        populacao: "487562"
+        }]
+})
+
+
+OPÇÕES DISPÓNIVEIS NO BANCO DE DADOS
+db.help()
+db. (APERTAR TAB)
+
+db.Estados.findOne()    -> Irá trazer o primeiro que encontrar
+db.Estados.finOne({sigla: "RJ"})    -> Irá trazer aquele que tem a sigla RJ
+
+Somente alguns Exemplos -> Todos os comandos pode achar a partir de -> OPÇÕES DISPÓNIVEIS NO BANCO DE DADOS
+db.help()
+db. (APERTAR TAB)
+- Ou pode achar dentro da documentação do MongoDB
