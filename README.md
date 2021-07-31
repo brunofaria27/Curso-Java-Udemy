@@ -87,7 +87,7 @@ curso de Java. Com o projeto Campo minado com Interface gráfica.
 ------------------------
 
 # Curso e Projetos
-> Status: Em desenvolvimento :warning:
+> Status: Finalizado...
 
 > Link de acesso para o curso: [COD3R CURSOS ONLINE](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) 
 ### Task List:
