@@ -90,7 +90,7 @@ curso de Java. Com o projeto Campo minado com Interface gráfica.
 > Status: Finalizado...
 
 > Link de acesso para o curso: [COD3R CURSOS ONLINE](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) 
-### Task List:
+### Task List - Java Curso:
 - [X] Conhecer a linguagem Java do zero ao avançado.
 - [X] Programação Funcional com Java.
 - [X] Fundamentos de programação sólidos.
