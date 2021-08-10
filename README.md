@@ -73,8 +73,8 @@ curso de Java. Com o projeto Campo minado com Interface gráfica.
   - `Libs`:  Bibliotecas utilizadas para fazer a integração do Banco de Dados com o Java e para utilização do JPA.
   - `META-INF`: Códigos xml para auxilio dos códigos.
   - `Infra`: Infraestrutura com DAO.
-  - `modelo`: Onde fica  a maior parte da Orientação a Objeto, testes e atributos de classes (nomes simples de entendimento nas pastas).
-  - `teste`: Teste dos modelos (nomes simples de entendimento nas pastas).
+  - `Nodelo`: Onde fica  a maior parte da Orientação a Objeto, testes e atributos de classes (nomes simples de entendimento nas pastas).
+  - `Teste`: Teste dos modelos (nomes simples de entendimento nas pastas).
 - `Modularidade em Java`: Diretório utilizado para armazenar todos os códigos de estudo para o assunto de Modularidade em Java.
 - `Java FX`: Diretório utilizado para armazenar todos os códigos de estudo para o assunto de FX em Java.
   - `Basico`: Entendendo o inicio de JavaFX.
