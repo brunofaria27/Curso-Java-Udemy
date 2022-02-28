@@ -1,5 +1,5 @@
 # Curso Java Udemy
-Repositório para armazenar tudo sobre o Curso de Java feito na Udemy.
+Repositório para armazenar tudo sobre o Curso de Java na Udemy.
 
 --------------------------
 ### Ferramentas utilizadas
